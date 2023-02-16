@@ -27,6 +27,8 @@ class NFT {
       let parser;
       if (type === 'avatar') {
         parser = new DNAParser(totemCommonFiles.sumoTatamiAvatarFilterJson, dna);
+      } else {
+        parser = new DNAParser(totemCommonFiles.itemFilterJson, dna);
       }
       const properties = parser.getFilterPropertiesList()
       let jsonProp = {...properties};

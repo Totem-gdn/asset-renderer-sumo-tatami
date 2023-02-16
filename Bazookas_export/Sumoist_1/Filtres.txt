@@ -1,6 +1,0 @@
-Hair.png	-	Sumoist_1.ai: hair
-Eyebrows.png	-	Sumoist_1.ai: eyebrows
-Eyes.png	-	Sumoist_1.ai: eyes
-Belt.png	-	Sumoist_1.ai: belt
-Skin.png	-	Sumoist_1.ai: skin(body&foots)
-			Sumoist_1.ai: mouth
